@@ -83,8 +83,11 @@ The model was evaluated using:
 This Month 2 internship project successfully demonstrated the intersection of **reactive** and **proactive** cybersecurity techniques. Through these tasks, I have achieved:
 
 **Forensic Proficiency**: Recovered deleted data using `TestDisk`, highlighting the importance of understanding file systems and data recovery mechanisms.
+
 **Advanced Threat Detection**: Developed a Machine Learning system using **Random Forest** that successfully handled imbalanced financial data.
+
 **Analytical Skills**: Evaluated model performance using multiple professional metrics like **Recall**, **Precision**, and **Confusion Matrices** to ensure reliability.
+
 **Strategic Understanding**: Combined **Digital Forensics**, **Secure Data Handling**, **Artificial Intelligence**, and **Risk Analysis** to strengthen my practical knowledge of modern defense mechanisms.
 
 The project has provided a solid foundation in real-world threat detection and forensic investigation strategies.
